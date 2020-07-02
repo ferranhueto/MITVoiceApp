@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e2d1b6246488171ff35d7be5fa72b956dbe76124">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_45833e2e4085d35b280cc91470cd94edaa79ed48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1aef9430ab8817d5194cfbaf36bd281906f3e44a">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_8a893dd0f447e6cbc675e08456491d9a03a9c0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/.android/build-cache/78e6f95decba2d3eae5a66167ed4f1576dc0b50f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_556e160371726d611d9b40c1e52eacba18a2d754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/.android/build-cache/78e6f95decba2d3eae5a66167ed4f1576dc0b50f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_50c2c18857638e12fcd8e3b7f3ca60623336f0f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_6d538d5cd1e13da1b10022db52ab8f07d80d4b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2622b66aef9dbd37f03169e38ed7ec23ec14011c">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_fe2e6a973291aa09c59d78c098123c3b5152f2c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/.android/build-cache/8e1d1eed0ade2f88deef2a9a00dca1c385f7f37b/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cad7916a1d97f7c794f0ecac7b09e705a7cc4e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/.android/build-cache/8e1d1eed0ade2f88deef2a9a00dca1c385f7f37b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordApp/android/app/build/intermediates/pre-dexed/debug/classes_36a13d753767af73499865279184f6dff96dea82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-audio/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="369204cd3492d8f8665f49a61d95dba4b9d2e186">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_4de95e50f4e7450dbadaf1d9ce3f39746307b4ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-sound/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7526119a7ff7546c96be6209a95a7bdad27de107">
+        <dex dex="/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/pre-dexed/debug/classes_3d390aa4b0d3c61b373264afffbe32cfedf37879.jar" />
+    </item>
+
+</items>

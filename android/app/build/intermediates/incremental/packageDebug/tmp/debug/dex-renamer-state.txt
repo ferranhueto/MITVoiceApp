@@ -1,0 +1,4 @@
+#Thu Mar 28 14:04:20 EDT 2019
+base.0=/Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/android/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

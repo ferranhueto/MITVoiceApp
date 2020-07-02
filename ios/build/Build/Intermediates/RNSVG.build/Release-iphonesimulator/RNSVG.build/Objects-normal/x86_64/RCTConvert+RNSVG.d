@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.m \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGCGFloatArray.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Brushes/RNSVGPainterBrush.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Brushes/RNSVGBrush.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/node_modules/react-native-svg/ios/Brushes/RNSVGSolidColorBrush.h \
+  /Users/ferranhuetopuig/Documents/MIT/GitRepos.nosync/WakeWordAppAndroid/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTFont.h

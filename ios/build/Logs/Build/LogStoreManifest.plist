@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C11DE14F-1C58-43B7-AF05-B0CB21A6FA12</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C11DE14F-1C58-43B7-AF05-B0CB21A6FA12.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>audioApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>audioApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project audioApp with scheme audioApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575554415.47976601</real>
+			<key>timeStoppedRecording</key>
+			<real>575554417.59190702</real>
+			<key>title</key>
+			<string>Building project audioApp with scheme audioApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C11DE14F-1C58-43B7-AF05-B0CB21A6FA12</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

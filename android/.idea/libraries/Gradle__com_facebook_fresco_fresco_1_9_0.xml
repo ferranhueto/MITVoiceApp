@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:fresco-1.9.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/7dcd42e409649772bbdb035c203363d12e287869/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7dcd42e409649772bbdb035c203363d12e287869/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7dcd42e409649772bbdb035c203363d12e287869/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
